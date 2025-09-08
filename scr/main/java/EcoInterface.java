@@ -24,6 +24,11 @@ public interface EcoInterface {
         void correr();
         void brincar();
         void descansar();
+        void pular();
+        void esconder();
+        void fugir();
+        void explorar();
+        void pastar();
 
         //barulhos
         void fazerBarulho();
@@ -35,5 +40,6 @@ public interface EcoInterface {
         void enterrar();
         void plantar();
         void colher();
+
 
 }
