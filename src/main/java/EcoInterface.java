@@ -1,4 +1,4 @@
-package scr.main.java;
+package src.main.java;
 
 public interface EcoInterface {
         //Alimentar
